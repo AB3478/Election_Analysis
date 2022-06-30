@@ -38,3 +38,5 @@ A Colorado Board of Elections employee has provided the following tasks to compl
 Out of the 369,711 total votes, Denver county had the largest vote total with 306,055 (82%) followed by Jefferson county with 38,855 votes (10.5%), and Arapahoe with 24,801 votes (6.7%). Diana DeGette won the election with 272,892 votes (73%).
 
 ![](https://github.com/AB3478/Election_Analysis/blob/main/Resources/Results.png)
+
+In the future, we could expand the code to analyze the data from other election results. In addition to analyzing a congressional election, we could also examine local, state, and federal results. Several components  of the code would remain the same, such as county votes, candidate votes, and declaring a winner.
